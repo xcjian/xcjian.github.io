@@ -14,5 +14,5 @@ Xingchao received his Bachelor of Science degree from the School of Mathematical
 
 Academic Experiences
 ======
-* Undergraduate student, School of Mathematical Sciences, Nankai University (Sep. 2016 - June. 2020)
+* B.S. in Statistics, School of Mathematical Sciences, Nankai University (Sep. 2016 - June. 2020)
 * Ph.D. candidate, School of Electrical and Electronic Engineering, Nanyang Technological University (Aug. 2020 - )
