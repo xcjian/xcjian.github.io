@@ -12,6 +12,8 @@ Xingchao received his Bachelor of Science degree from the School of Mathematical
 
 [CV](../files/Academic_CV.pdf)
 
+E-mail: xingchao001@e.ntu.edu.sg
+
 Academic Experiences
 ======
 * B.S. in Statistics, School of Mathematical Sciences, Nankai University (Sep. 2016 - June. 2020)
