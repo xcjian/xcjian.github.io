@@ -24,8 +24,8 @@ Journal Papers
 
 Conference Papers
 ======
-* **X. Jian** and W. P. Tay, ”Kernel Ridge Regression for Generalized Graph Signal Processing,” in _Proc. IEEE International Conference Acoustics, Speech, and Signal Processing_, Rhodes Island, Greece, 2023. [(Online)](https://ieeexplore.ieee.org/abstract/document/10096767)
-* **X. Jian** and W. P. Tay, ”Wide-Sense Stationarity and Spectral Estimation for Generalized Graph Signal,” in Proc. IEEE International Conference Acoustics, Speech, and Signal Processing, Singapore, May. 2022. [(Online)](https://ieeexplore.ieee.org/abstract/document/9747273)
+* **X. Jian** and W. P. Tay, ”Kernel Ridge Regression for Generalized Graph Signal Processing,” in _Proc. IEEE International Conference Acoustics, Speech, and Signal Processing_, Rhodes Island, Greece, Jun. 2023. [(Online)](https://ieeexplore.ieee.org/abstract/document/10096767)
+* **X. Jian** and W. P. Tay, ”Wide-Sense Stationarity and Spectral Estimation for Generalized Graph Signal,” in _Proc. IEEE International Conference Acoustics, Speech, and Signal Processing_, Singapore, May. 2022. [(Online)](https://ieeexplore.ieee.org/abstract/document/9747273)
 
 Books and Chapters
 ======
