@@ -16,5 +16,5 @@ E-mail: xingchao001@e.ntu.edu.sg
 
 Academic Experiences
 ======
-* B.S. in Statistics, School of Mathematical Sciences, Nankai University (Sep. 2016 - June. 2020)
+* B.S. in Statistics, School of Mathematical Sciences, Nankai University (Sep. 2016 - Jun. 2020)
 * Ph.D. candidate, School of Electrical and Electronic Engineering, Nanyang Technological University (Aug. 2020 - )
