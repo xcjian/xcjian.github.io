@@ -29,4 +29,4 @@ Conference Papers
 
 Books and Chapters
 ======
-* **X. Jian**, F. Ji and W. P. Tay, “Generalizing Graph Signal Processing: High Dimensional Spaces, Models and Structures”, _Foundations and Trends in Signal Processing_: Vol. 17: No. 3, pp 209-290, 2023. [(Online)](https://www.nowpublishers.com/article/Details/SIG-119)
+* **X. Jian**, F. Ji and W. P. Tay, “Generalizing Graph Signal Processing: High Dimensional Spaces, Models and Structures”, _Foundations and Trends in Signal Processing_, Vol. 17, No. 3, pp 209-290, 2023. [(Online)](https://www.nowpublishers.com/article/Details/SIG-119)
