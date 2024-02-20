@@ -14,7 +14,6 @@ author_profile: true
 Submitted/Undereview
 ======
 * F. Ji, **X. Jian**, W. P. Tay, M. Yang, “Topological Signal Processing over Simplicial Complexes with Abelian Groups”, submitted to _IEEE Transactions on Signal Processing_, under review.
-* **X. Jian**, F. Ji and W. P. Tay, “Comments on “Graphon Signal Processing”,” submitted to _IEEE Transactions on Signal Processing_, under review. [(Online)](https://arxiv.org/abs/2310.14683)
 * **X. Jian**, W. P. Tay and Y. C. Eldar, “Kernel Based Reconstruction for Generalized Graph Signal Processing,” submitted to _IEEE Transactions on Signal Processing_, under review. [(Online)](https://arxiv.org/abs/2308.06949)
 
 Journal Papers
