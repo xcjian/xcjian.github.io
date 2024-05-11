@@ -18,7 +18,7 @@ Submitted/Undereview
 
 Journal Papers
 ======
-* **X. Jian**, W. P. Tay and Y. C. Eldar, “Kernel Based Reconstruction for Generalized Graph Signal Processing,” in _IEEE Transactions on Signal Processing_, accepted. [(Online)](https://arxiv.org/abs/2308.06949)
+* **X. Jian**, W. P. Tay and Y. C. Eldar, “Kernel Based Reconstruction for Generalized Graph Signal Processing,” in _IEEE Transactions on Signal Processing_, vol. 72, pp. 2308-2322, 2024. [(Online)](https://ieeexplore.ieee.org/abstract/document/10510405)
 * **X. Jian** and W. P. Tay, “Wide-Sense Stationarity in Generalized Graph Signal Processing,” in _IEEE Transactions on Signal Processing_, vol. 70, pp. 3414-3428, 2022. [(Online)](https://ieeexplore.ieee.org/abstract/document/9802780)
 
 Conference Papers
