@@ -13,10 +13,11 @@ author_profile: true
 
 Submitted/Undereview
 ======
-* F. Ji, **X. Jian**, W. P. Tay, “Modeling Sparse Graph Sequences and Signals Using Generalized Graphons”, submitted to _IEEE Transactions on Signal Processing_, under review. [(Online)](https://arxiv.org/abs/2312.08124)
+* F. Ji, **X. Jian**, W. P. Tay, M. Yang, “Processing Asynchronous Time-simplex Signals”, submitted to _IEEE Signal Processing Letters_.
 
 Journal Papers
 ======
+* F. Ji, **X. Jian**, W. P. Tay, “Modeling Sparse Graph Sequences and Signals Using Generalized Graphons”, in _IEEE Transactions on Signal Processing_, accepted. [(Online)](https://arxiv.org/abs/2312.08124)
 * **X. Jian**, W. P. Tay and Y. C. Eldar, “Kernel Based Reconstruction for Generalized Graph Signal Processing,” in _IEEE Transactions on Signal Processing_, vol. 72, pp. 2308-2322, 2024. [(Online)](https://ieeexplore.ieee.org/abstract/document/10510405)
 * **X. Jian** and W. P. Tay, “Wide-Sense Stationarity in Generalized Graph Signal Processing,” in _IEEE Transactions on Signal Processing_, vol. 70, pp. 3414-3428, 2022. [(Online)](https://ieeexplore.ieee.org/abstract/document/9802780)
 
