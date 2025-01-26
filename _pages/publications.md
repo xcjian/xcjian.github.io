@@ -13,7 +13,7 @@ author_profile: true
 
 Submitted/Undereview
 ======
-
+* **X. Jian**, M. Gölz, F. Ji, W. P. Tay, A. Zoubir, “A Generalized Graph Signal Processing Framework for Multiple Hypothesis Testing over Networks,” submitted to _IEEE Transactions on Signal Processing_, Jan 2025. [(Online)](https://arxiv.org/abs/2408.03142) [Code](https://github.com/xcjian/GGSP-detection)
 Journal Papers
 ======
 * W. Luo, Y. H. Lee, **X. Jian**, T. Hao, “A New Method for GPR Clutter Suppression Based on Stationary Graph Signals Processing”, in _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, pp. 1-12, 2025. [(Online)](https://ieeexplore.ieee.org/abstract/document/10793090)
