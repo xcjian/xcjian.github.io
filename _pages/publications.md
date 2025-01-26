@@ -13,6 +13,7 @@ author_profile: true
 
 Submitted/Undereview
 ======
+* **X. Jian**, M. Gölz, F. Ji, W. P. Tay, A. Zoubir, “A Generalized Graph Signal Processing Framework for Multiple Hypothesis Testing over Networks,” submitted to _IEEE Transactions on Signal Processing_, Jan. 2025. [(Online)](https://arxiv.org/abs/2408.03142)[(Code)](https://github.com/xcjian/GGSP-detection)
 
 Journal Papers
 ======
