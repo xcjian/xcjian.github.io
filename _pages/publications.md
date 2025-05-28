@@ -24,6 +24,7 @@ Journal Papers
 
 Conference Papers
 ======
+* F. Ji, **X. Jian**, W. P. Tay, M. Yang, “Processing Asynchronous Time-simplex Signals,” in _Proc. European Signal Processing Conference_, Palermo, Italy, Sep. 2025.
 * **X. Jian**, M. Gölz, F. Ji, W. P. Tay, A. Zoubir, “A Generalized Graph Signal Processing Framework for Multiple Hypothesis Testing over Networks,” in _Proc. IEEE International Conference Acoustics, Speech, and Signal Processing_, Hyderabad, India, Apr. 2025.
 * Y. Zhao, **X. Jian**, F. Ji, W. P. Tay, A. Ortega, “Generalized Graph Signal Reconstruction via the Uncertainty Principle,” in _Proc. IEEE International Conference Acoustics, Speech, and Signal Processing_, Hyderabad, India, Apr. 2025.
 * P. Zhang, **X. Jian**, F. Ji, W. P. Tay, B. Wen, ”Spectral Convergence of Simplicial Complex Signals,” in _Proc. IEEE International Symposium on Information Theory_, Athens, Greece, Jul. 2024.
