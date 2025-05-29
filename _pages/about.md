@@ -18,6 +18,7 @@ Academic Experiences
 ======
 * B.S. in Statistics, School of Mathematical Sciences, Nankai University (Sep. 2016 - Jun. 2020)
 * Ph.D. in Signal Processing, School of Electrical and Electronic Engineering, Nanyang Technological University (Aug. 2020 - Jan. 2025)
+* Post-doctoral fellow, School of Computation, Information and Technology, Technical University of Munich (May. 2025 - Present)
 
 Honors and Awards
 ======
