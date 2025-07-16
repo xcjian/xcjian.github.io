@@ -13,10 +13,11 @@ author_profile: true
 
 Submitted/Undereview
 ======
-* **X. Jian**, M. Gölz, F. Ji, W. P. Tay, A. Zoubir, “A Generalized Graph Signal Processing Framework for Multiple Hypothesis Testing over Networks,” submitted to _IEEE Transactions on Signal Processing_, Jan. 2025. [(Online)](https://arxiv.org/abs/2408.03142)[(Code)](https://github.com/xcjian/GGSP-detection)
+
 
 Journal Papers
 ======
+* **X. Jian**, M. Gölz, F. Ji, W. P. Tay, A. Zoubir, “A Generalized Graph Signal Processing Framework for Multiple Hypothesis Testing over Networks,” in _IEEE Transactions on Signal Processing_, accepted. [(Online)](https://arxiv.org/abs/2408.03142)[(Code)](https://github.com/xcjian/GGSP-detection)
 * W. Luo, Y. H. Lee, **X. Jian**, T. Hao, “A New Method for GPR Clutter Suppression Based on Stationary Graph Signals Processing”, in _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, pp. 1-12, 2025. [(Online)](https://ieeexplore.ieee.org/abstract/document/10793090)
 * F. Ji, **X. Jian**, W. P. Tay, “Modeling Sparse Graph Sequences and Signals Using Generalized Graphons”, in _IEEE Transactions on Signal Processing_, vol. 72, pp. 5048-5064, 2024. [(Online)](https://ieeexplore.ieee.org/abstract/document/10726916)
 * **X. Jian**, W. P. Tay and Y. C. Eldar, “Kernel Based Reconstruction for Generalized Graph Signal Processing,” in _IEEE Transactions on Signal Processing_, vol. 72, pp. 2308-2322, 2024. [(Online)](https://ieeexplore.ieee.org/abstract/document/10510405)
