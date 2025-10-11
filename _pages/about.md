@@ -22,4 +22,4 @@ Academic Experiences
 
 Honors and Awards
 ======
-* Doctorate Research Excellence Award (EEE Best Thesis Award), 2025
+* EEE Doctorate Research Excellence Award (Commendation), 2025
