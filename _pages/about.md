@@ -22,5 +22,5 @@ Academic Experiences
 
 Honors and Awards
 ======
-* EEE Doctorate Research Excellence Award (Commendation), 2025
 * Humboldt Research Fellowship, 2025
+* EEE Doctorate Research Excellence Award (Commendation), 2025
