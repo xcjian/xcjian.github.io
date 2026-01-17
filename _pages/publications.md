@@ -31,6 +31,7 @@ Conference Papers (Machine Learning)
 
 Conference Papers (Signal Processing)
 ======
+* Y. Zhao, F. Ji, **X. Jian**, W. P. Tay, “Graph Distribution-valued Signals: A Wasserstein Space Perspective,” in _Proc. IEEE International Conference Acoustics, Speech, and Signal Processing_, Barcelona, Spain, May. 2026.
 * F. Ji, **X. Jian**, W. P. Tay, M. Yang, “Processing Asynchronous Time-simplex Signals,” in _Proc. European Signal Processing Conference_, Palermo, Italy, Sep. 2025.
 * **X. Jian**, M. Gölz, F. Ji, W. P. Tay, A. Zoubir, “A Generalized Graph Signal Processing Framework for Multiple Hypothesis Testing over Networks,” in _Proc. IEEE International Conference Acoustics, Speech, and Signal Processing_, Hyderabad, India, Apr. 2025.
 * Y. Zhao, **X. Jian**, F. Ji, W. P. Tay, A. Ortega, “Generalized Graph Signal Reconstruction via the Uncertainty Principle,” in _Proc. IEEE International Conference Acoustics, Speech, and Signal Processing_, Hyderabad, India, Apr. 2025.
