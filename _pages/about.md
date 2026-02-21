@@ -19,8 +19,9 @@ Academic Experiences
 * B.S. in Statistics, School of Mathematical Sciences, Nankai University (Sep. 2016 - Jun. 2020)
 * Ph.D. in Signal Processing, School of Electrical and Electronic Engineering, Nanyang Technological University (Aug. 2020 - Jan. 2025)
 * Post-doctoral fellow, School of Computation, Information and Technology, Technical University of Munich (May. 2025 - Mar. 2026)
+* Post-doctoral fellow, Department of Electrical Engineering and Information Technology, Technical University of Darmstadt (Jun. 2026 - )
 
 Honors and Awards
 ======
-* Humboldt Research Fellowship, 2025
+* Humboldt Research Fellowship, Nov. 2025
 * EEE Doctorate Research Excellence Award (Commendation), 2025
