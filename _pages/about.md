@@ -13,8 +13,9 @@ Xingchao received his Bachelor of Science degree from the School of Mathematical
 [CV](../files/Academic_CV.pdf)
 
 E-mail: 
-x.jian@stsl.tu-darmstadt.de
-xingchao001@e.ntu.edu.sg
+
+* x.jian@stsl.tu-darmstadt.de
+* xingchao001@e.ntu.edu.sg
 
 Academic Experiences
 ======
